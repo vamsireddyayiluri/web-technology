@@ -1,0 +1,38 @@
+
+per.html
+<html>
+<body>
+My name is Nireekshan
+</body>
+<html>
+
+edu.html
+<html>
+<body>
+Iam studying b.tech in lbrce college
+</body>
+<html>
+
+work.html
+<html>
+<body>
+iam working as student
+</body>
+<html>
+
+link.html
+<html>
+<body>
+<a href="details.html">
+personal details <br>
+</a>
+<a href="edu.html">
+Educational <br>
+</a>
+<a href="work.html">
+work experience <br>
+</a>
+</body>
+</html>
+
+
