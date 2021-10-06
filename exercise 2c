@@ -1,0 +1,179 @@
+internal links.html
+<html>
+<body>
+<h1 id="top"> Top page </h1>
+<a href="#bottom">
+click here to move bottom page content
+</a> <br>
+hello <br>
+how are u  <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br> hello <br>
+how are u <br>
+<h2 id="bottom"> bottom page </h2>
+hell <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+hello <br>
+how are u <br>
+<a href="#top">
+click here to go to top page content
+</a> <br>
+</body>
+</html>
