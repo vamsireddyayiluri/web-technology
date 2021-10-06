@@ -1,0 +1,25 @@
+
+details.html
+<html>
+<body>
+<h1 align="center">personal details </h1>
+My name is Nireekshan <br>
+Iam studying b.tech in lbrce college,<br>
+in mylavaram <br>
+</body>
+<html>
+
+
+imglink.html
+<html>
+<body>
+<a href="details2.html" target="-blank">
+<center>
+<img src="forest.jpg" width=300 height=300/>
+</center>
+</a>
+</body>
+</html>
+
+
+
